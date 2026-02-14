@@ -6,11 +6,11 @@ the CIA to integrate smoothly in your daily life. This includes features like au
 
 Install the required libraries by running (in your commandline: eg. Powershell, Comandprompt, Terminal):
 
-*Pip install base64
+Pip install base64
 
-*pip install pyfiglet
+pip install pyfiglet
 
-*pip install cryptography
+pip install cryptography
 
 download and execute the Hi.py file. 
 
