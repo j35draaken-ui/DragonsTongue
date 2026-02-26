@@ -6,7 +6,7 @@ the CIA to integrate smoothly in your daily life. This includes features like au
 
 Install the required libraries by running (in your commandline: eg. Powershell, Comandprompt, Terminal):
 
-Pip install base64
+pip install base64
 
 pip install pyfiglet
 
