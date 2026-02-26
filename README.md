@@ -12,6 +12,8 @@ pip install pyfiglet
 
 pip install cryptography
 
+you might need to use pip3
+
 download and execute the Hi.py file. 
 
 enjoy,
